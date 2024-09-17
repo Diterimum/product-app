@@ -1,0 +1,27 @@
+.contact{
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .contact form{
+    display: inline-block;
+    text-align: left;
+  }
+  
+  .contact label{
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .contact input,
+  .contact textarea{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .contact button{
+    padding: 10px 20px;
+    font-size: 1em;
+  }
+  
